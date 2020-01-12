@@ -19,7 +19,7 @@ if (strokes == 1) {
 }else if (strokes == par + 2) {
   console.log ("Double Bogey")
   return "Double Bogey"
-}else if (strokes >= par + 1) {
+}else if (strokes > par + 2) {
   console.log ("Go Home!")
   return "Go Home!"
 
