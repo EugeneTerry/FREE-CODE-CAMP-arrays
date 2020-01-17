@@ -48,4 +48,4 @@ btn.addEventListener("click", (e)=> {
   var stroke = parseInt(document.getElementById("stroke").value);  
 
   golfScore(par,stroke);
-}
+})
