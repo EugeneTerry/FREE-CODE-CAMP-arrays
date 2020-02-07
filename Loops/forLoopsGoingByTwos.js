@@ -1,4 +1,5 @@
 //This creats an array with numbers going up by 2's
+//if I want to go down by 2's i would use "-=" instead of "+=".
 //Depending what number you start off with will determine if the numbers will be odd or even
 var myArray = [];
 for (var i = 1; i <= 9; i+= 2)
