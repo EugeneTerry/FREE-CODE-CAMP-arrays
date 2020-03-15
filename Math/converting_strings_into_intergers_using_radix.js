@@ -1,5 +1,5 @@
 // example: parseInt(string, radix);
-
+// so this will covert binary numbers to intergers
 function convertToInteger(str) {
     console.log (parseInt(str, 2))
 return parseInt(str, 2); 
