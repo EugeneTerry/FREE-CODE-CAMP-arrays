@@ -1,6 +1,6 @@
 //Comparison with the Greater Than Operator
 
-function testGreaterThan(val) {
+const testGreaterThan=(val)=>{
   if (val > 100) {  // Change this line
     console.log ("Over 100")
     return "Over 100";
